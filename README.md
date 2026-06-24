@@ -73,6 +73,7 @@ Credit-Card-Financial-Dashboard-
    ```bash
    git clone https://github.com/Mohitbhardwaj2403/Credit-Card-Financial-Dashboard-.git
    ```
+   > Note: The repository name intentionally ends with a trailing hyphen (`-`).
 2. Place source files in `data/raw/`.
 3. Run SQL scripts from the `sql/` folder to prepare analysis-ready datasets.
 4. Open the Power BI `.pbix` file from `dashboard/`.
