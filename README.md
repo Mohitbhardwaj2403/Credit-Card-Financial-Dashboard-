@@ -36,6 +36,7 @@ This project is an interactive Power BI dashboard built to analyze Credit Card C
 - Total Transaction Count: 656K
 
 ## ScreenShot
-- "C:\Users\Mohit Bhardwaj\Downloads\WhatsApp Image 2026-06-24 at 1.47.26 PM.jpeg"
+- <img width="1265" height="727" alt="WhatsApp Image 2026-06-24 at 1 47 26 PM" src="https://github.com/user-attachments/assets/6fc58661-f936-4057-8108-3407b414d41e" />
+
 ## Author
 Mohit Bhardwaj
